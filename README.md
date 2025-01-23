@@ -1,23 +1,25 @@
 # Malaria-Cases-Analysis-in-Africa-2007-2017
 The analysis highlights significant disparities in malaria  burden across regions, with East and West Africa accounting for the majority of cases due to  factors such as limited healthcare access and environmental conditions conducive to malaria  transmission.
 
-**Summary**
+![](https://github.com/Olowookere-Abidemi/Malaria-Cases-Analysis-in-Africa-2007-2017-/blob/main/Malaria%20Dashboard.jpg)
+
+## Introduction
 
 Between 2007 and 2017, Africa recorded 588 million malaria cases, with an average incidence  rate of 176.01 cases per 1,000 population. The study highlights significant disparities in malaria  burden across regions, with East and West Africa accounting for the majority of cases due to  factors such as limited healthcare access and environmental conditions conducive to malaria  transmission. Urban populations fared better than rural populations, reflecting disparities in  infrastructure and healthcare accessibility. Notable findings include a marked rise in reported  cases attributed to improved data reporting mechanisms and localized outbreaks. 
 
 Key prevention measures, including anti-malarial drugs and bed nets, were observed to impact  case numbers positively, though their distribution remained uneven. The analysis underscores  the need for targeted interventions in high-burden regions like East, West, and Central Africa,  with a focus on rural areas. 
 
-**Methods Used**
+## Methodology
 
-**Data Cleaning**
+### Data Cleaning
 
 • Removed irrelevant columns (e.g., "Geometry," "Latitude"). 
 
 • Replaced blank cells with 0 for consistency. 
 
 • Grouped countries into regions for granular insights. 
-
-**Power BI Tools** 
+ 
+ ### Power BI Tools
 
 _**1. Custom Measures:**_
   
@@ -35,11 +37,11 @@ o Scatter plots: Bed net usage effectiveness.
 
 o Pie charts: Rural vs. urban population.
 
-_**4. Filters:**_
+_**3. Filters:**_
 
 o Interactive slicers for year, region, and country. 
 
-**Key Metrics**
+## Key Metrics
 
 • _Total Cases Reported:_ 588 million. 
 
@@ -53,7 +55,7 @@ _• Rural Population:_ 33,420 (56.84% of the total population).
 
 • _Urban Population:_ 25,380 (43.16% of the total population). 
 
-**Detailed Observations**
+## Detailed Observations
 
 _**1. Regional Analysis**_
 
@@ -63,7 +65,7 @@ o 250.84M cases (42.66% of total).
 
 _o Contributing factors:_ High rural population, limited healthcare, and favourable environmental conditions. 
 
-_• West Africa:  _
+_• West Africa:_
 
 o 212.93M cases with the highest incidence average rate of 295.23 cases per  1,000.
 
@@ -111,7 +113,7 @@ _• Mozambique, Burkina Faso and Uganda:_
 
 o 44M, 42M and 41M cases, respectively, with high rural populations and  reliance on subsistence agriculture. 
 
-_• Burundi and Nigeria: _
+_• Burundi and Nigeria:_
 
 o Both recorded 40M approximately cases, marked by disparities in preventive  measure usage between rural and urban areas. 
 
@@ -121,7 +123,7 @@ _• Bed Net Usage:_
 
 o Higher usage correlated with lower incidence rates, though regions like East  Africa still face high burdens due to compounding factors. 
 
-**Key Insights for Decision-Making**
+## Key Insights for Decision-Making
 
 **Public Health Strategies**
 
@@ -137,7 +139,9 @@ o Maintain high intervention levels to prevent outbreaks.
 
 **Policy Recommendations**
 
-_• Collaborative Programs:_ Partner with governments in countries like Congo,  Mozambique, and Burkina Faso to develop sustainable prevention strategies. • Education Campaigns: Promote the consistent use of insecticide-treated bed nets,  especially in rural areas. 
+_• Collaborative Programs:_ Partner with governments in countries like Congo,  Mozambique, and Burkina Faso to develop sustainable prevention strategies. 
+
+_• Education Campaigns:_ Promote the consistent use of insecticide-treated bed nets,  especially in rural areas. 
 
 **Data-Driven Interventions**
 
@@ -145,7 +149,7 @@ _• Collaborative Programs:_ Partner with governments in countries like Congo, 
 
 • Incorporate socio-economic indicators (e.g., poverty levels, education) in future studies  to better understand malaria prevalence. 
 
-**Future Recommendations**
+## Future Recommendations
 
 1. Analyse healthcare spending’s impact on malaria cases.
    
